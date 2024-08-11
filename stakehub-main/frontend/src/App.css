@@ -1,0 +1,59 @@
+.heading {
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 46px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.heading1{
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input {
+  background-color: white;
+  width: 90%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 15px;
+  font-weight: 600;
+  outline: none;
+}
+.button{
+  background-color: #e91e63;
+    color: white;
+    font-weight: 300;
+    margin-top: 10px;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    outline: none;
+    cursor: pointer;
+}
+.item{
+  text-decoration: none;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.price-chart{
+  display: flex;
+  justify-content: center;
+}
